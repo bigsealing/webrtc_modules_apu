@@ -1,6 +1,4 @@
 #include "webrtctestfile.h"
-//#include "logsdk/logger.h"
-//#include "reichbase/protomyinfo.h"
 
 //#define ENABLE_WEBRTC_TEST_FILE
 

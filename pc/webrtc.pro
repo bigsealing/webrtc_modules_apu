@@ -1,5 +1,5 @@
 TEMPLATE = lib
-TARGET = webrtc
+TARGET = webrtc_audio
 INCLUDEPATH += .
 INCLUDEPATH += ../webrtc/
 INCLUDEPATH += ../webrtc/include
